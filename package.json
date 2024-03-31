@@ -1,0 +1,33 @@
+{
+  "name": "hemingwaymarjorie",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "hemingwaymarjorie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qinmingd/hemingwaymarjorie"
+  },
+  "website": "https://github.com/qinmingd/hemingwaymarjorie.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "qinmingd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinmingd/hemingwaymarjorie/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/qinmingd/hemingwaymarjorie#readme",
+  "dependencies": {
+    "bholtfrederic": "1.0.2"
+  }
+}
